@@ -31,6 +31,8 @@ Predicting flight prices is a classic regression problem in data science. Before
 
 > **Note**: The dataset used in this project is assumed to be publicly available or provided for educational purposes. Please ensure that the dataset is present in the working directory when running the notebook.
 
+- Here is the link for the dataset: https://github.com/Poojakjain25/Flight_Price_Data_Cleaning_Feature_Engineering/blob/main/economy.csv
+
 Typical features include:
 - Date of Journey
 - Departure and Arrival Time
