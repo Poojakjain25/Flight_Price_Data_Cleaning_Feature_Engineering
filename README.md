@@ -20,7 +20,7 @@ Predicting flight prices is a classic regression problem in data science. Before
 - Python
 - Jupyter Notebook
 - pandas
-- NumPy
+- sci-kit learn
 - seaborn & matplotlib (for visualization)
 
 ## Contents
